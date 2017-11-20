@@ -1,0 +1,53 @@
+ Most Notable flaws:
+1. The three navigation keys are not backlit. Lenovo probably did that to give you a reason to buy their more premium offerings. Its not a big deal, for me but I can imagine less tech savvy older people being troubled by it.
+
+2. No Gorilla Glass or Any Scratch Resistant Glass. There is absolutely no mention of the glass properties anywhere, and the box contains a scratch guard, I take that as warning from Lenovo, to not get very adventurous.
+
+3. Average Camera: To be honest, I havent tried using it in daylight/outdoors, its able to shoot okayish indoor shots. There is no f2.0 lens, which is included in the Zenfone and Moto G.
+
+4. Customer Service: I still havent tested this, but being a newcomer to the phone market, I'm not sure how comprehensive and professional their network is. My city has 3 Lenovo service centres as against 20+ of Samsung, HTC ironically has just one.
+
+Now coming to the main review.
+
+This phone if continued to be sold, is likely to change the landscape of the sub 10k segment. For Rs.7000 this is simply the best phone in the market to date.
+
+Specs:
+LTE is the future of mobile networks, and is definitely on my list of must haves. Airtel has already rolled out 4G services in several cities.
+
+This phone is designed to be an ideal media consumption device, with the 5" display and stereo dolby speakers.
+
+Body and Design:
+Definitely a great phone to look at. Both front and back have been designed with great attention to detail. From the symmetrically placed speaker grills, to the tapering circles of the camera-flash pinhole, this phone exudes meticulous design, which seems to be lost in these days of quarterly launches. Screen to body ratio is pretty good. Its also very slim and noticeably light. The corners tend to dig into the palm a bit, depending on how you hold the phone.
+
+The capacitive keys at the bottom are not backlit, this could be a major issue, for people with poor eyesight. This is probably just something Lenovo did to remind you that this is a budget handset.
+
+The gimmicky Stereo Dolby Speakers, deliver very clear and pleasant treble. Loudness is also spot on.
+
+Lenovo ships this matte black beauty with ill-matched white accessories, another attempt to throttle the design?
+
+Display:
+Brightness and viewing angles are pretty good, the font is crisp. The touch screen is responsive & UI has no noticeable lag on normal operations. I'd expect some lag while switching back from RAM intensive apps.
+It's not an AMOLED, so the absence of pure blacks/infinite contrast differentiate this
+from the mid-range Nokia, Samsung and the odd Motorola phones.
+
+Battery:
+Can't deliver a verdict on this yet, but it seems to be well equipped at 2300mAh.
+
+UI:
+Lenovo runs its custom skin, which seems to hog the RAM (~200mb free with no apps running). It bears resemblance to MIUI in structure, although not as pretty in my opinion.
+
+There are also the usual set of OEM made apps including Calender, Clock, Music, etc. Again, these apps aren't the prettiest or the smartest. Most notably, DLNA playback is missing in the music app, which is something I'm used to coming from HTC and Samsung. Another budget phone flag by Lenovo.
+
+The idea of removing the app drawer is compelling, for people like me who love cramming apps into folders, and reducing home screens. The dialer app runs smoothly and is very usable, enabling the device to dutifully serve its primary purpose, which many phones seem to neglect.
+
+Competition:
+As on today there is no LTE phone within miles of this price bracket, and that is unlikely to change for quite some time. This alone could be your reason to take the plunge.
+
+The intermittently sold Asus Zenfone 4- A450 is the closest competitor. However the A6000 is pretty much the same footprint, but slimmer and lighter. The major plus of the Zenfone is the Gorilla Glass, which Asus is now sneakily trying to omit.
+The Zenfone 5 is noticeably bulkier. You'd be getting a better camera (f2.0) and gorilla glass, but pay Rs.3k more. The Zenfone series wins with the Zen UI which is quite likeable, and offers improved functionality over stock android.
+The Android One series, made by some B-grade manufacturers is also in the same price bracket, but the A6000 delivers much better build quality and specs for just Rs.1000 more.
+A bunch of windows phones with good specs also exist. I'm quite disappointed with the way Windows Phones OS & eco system. The A6000 still wins on build quality and weight.
+This phone could also go head-on with the Moto G (2014). The Moto, offers Gorilla Glass, splash resistance and a gyroscope. It costs almost twice as much the A6000, offering nearly identical specs. Its also bulkier, has a smaller non-replaceable battery and omits LTE.
+
+Lenovo has priced this handset very aggressively, this phone could've easily been sold for Rs.9-13k range. The A6000 stands out in glorious triumph, in a very crowded budget phone segment.
+
